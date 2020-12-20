@@ -10,15 +10,15 @@
 
 2. Briefly describe the main differences of the most popular hypervisors.
 
-- **_hypervisors is 2 types:
+- \*\*\_hypervisors is 2 types:
   Native: first type of hypervisors are installed right on the host's hardware (in order to monitor and control guest machines). Example :
   -Xen (XENSERVER, Citrix Hypervisor)
   -Hyper-V (Microsoft)
   -VMware’s ESX/ESXi
-  Host OS: hypervisors run on a regular OS just like other applications on the system. In this case the Guest OS (VM) operates as regular process on the host (hypervisors separate Guest OS (VM) from host OS). Example :
+- Host OS: hypervisors run on a regular OS just like other applications on the system. In this case the Guest OS (VM) operates as regular process on the host (hypervisors separate Guest OS (VM) from host OS). Example :
   -Parallels Desktop
   -VMware Workstation
-  -Oracle VirtualBox_**
+  -Oracle VirtualBox\_\*\*
 
 ### PART 2. WORK WITH VIRTUALBOX
 
