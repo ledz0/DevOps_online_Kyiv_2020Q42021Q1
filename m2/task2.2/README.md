@@ -19,7 +19,8 @@
     ![1](./screenshots/6.png)</br></br>
 
         Snapshot from AMI volume/EBS :
-        ![1](./screenshots/6.1.png)</br></br>
+
+    ![1](./screenshots/6.1.png)</br></br>
 
 7.  Creation of additional EBS/Volume to the main instance :</br></br>
 
@@ -47,7 +48,7 @@
 
     ![1](./screenshots/12.png)</br></br>
     ![1](./screenshots/12.1.png)</br></br>
-    ![1](./screenshots/12.3.png)</br></br>
+    ![1](./screenshots/12.2.png)</br></br>
 
 13. Read of creating domain name from AWS Route 53 (Route 53 not free tier).
 14. Cluster is created AWS Elastic Container Service:</br></br>
