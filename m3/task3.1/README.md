@@ -36,10 +36,13 @@
 
 ### PART 2
 
-5. Backup of database is done using the next CL and Database is restored using the next CL :</br> -_sudo mysqldump careers > backup_career_db.sql_</br></br> -_sudo mysql new_sunroof_DB < backup_sunroof_DB.sql_</br>
-   ![1](./screenshots/14.png)</br>
-   ![1](./screenshots/15.png)</br>
-   ![1](./screenshots/16.png)</br>
+5. Backup of database is done using the next CL and Database is restored using the next CL :</br>
+
+- _sudo mysqldump careers > backup_career_db.sql_</br></br>
+- _sudo mysql restore_DB < backup_career_db.sql_</br>
+  ![1](./screenshots/14.png)</br>
+  ![1](./screenshots/15.png)</br>
+  ![1](./screenshots/16.png)</br>
 
 6. Table and database were deleted using the next CL :</br>
    - _drop table skill;_
