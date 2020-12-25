@@ -47,3 +47,23 @@
 6. Table and database were deleted using the next CL :</br>
    - _drop table skill;_
    - _drop database careers;_
+7. Transfer of local database to RDS AWS.</br>
+   ![1](./screenshots/13.1.png)</br></br>
+   Transfer :</br>
+   ![1](./screenshots/13.2.png)</br></br>
+
+8. Connect to database RDS AWS :</br>
+   ![1](./screenshots/13.3.png)</br>
+9. Executed SELECT operator WHERE :</br>
+   ![1](./screenshots/13.4.png)</br>
+
+10. Dump is created from RDS AWS :</br>
+    ![1](./screenshots/13.5.png)</br>
+
+### PART 3</br></br>
+
+Amazon DynamoDB table is created :</br>
+![1](./screenshots/20.png)</br></br>
+![1](./screenshots/21.png)</br></br>
+![1](./screenshots/22.png)</br></br>
+![1](./screenshots/23.png)</br></br>
