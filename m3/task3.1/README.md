@@ -45,20 +45,22 @@
   ![1](./screenshots/16.png)</br>
 
 6. Table and database were deleted using the next CL :</br>
+
    - _drop table skill;_
    - _drop database careers;_
+
 7. Transfer of local database to RDS AWS.</br>
-   ![1](./screenshots/13.1.png)</br></br>
-   Transfer :</br>
-   ![1](./screenshots/13.2.png)</br></br>
+   ![1](./screenshots/17.png)</br></br>
+   ![1](./screenshots/17.1.png)</br></br>
 
 8. Connect to database RDS AWS :</br>
-   ![1](./screenshots/13.3.png)</br>
+   ![1](./screenshots/18.png)</br>
+
 9. Executed SELECT operator WHERE :</br>
-   ![1](./screenshots/13.4.png)</br>
+   ![1](./screenshots/19.png)</br>
 
 10. Dump is created from RDS AWS :</br>
-    ![1](./screenshots/13.5.png)</br>
+    ![1](./screenshots/19.1.png)</br>
 
 ### PART 3</br></br>
 
