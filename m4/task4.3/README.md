@@ -4,8 +4,8 @@
 
 Local net is set with the next scheme (5 PCs, 1 router, 1 servers).</br>
 
-- Router settings :</br>
+- Router configurated :</br>
   ![1](./screenshots/1.png)</br></br>
 
-- Router RIP is set up (version 2) :</br>
+- Router RIP :</br>
   ![1](./screenshots/2.png)
