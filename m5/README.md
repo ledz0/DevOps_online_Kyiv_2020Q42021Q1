@@ -28,7 +28,7 @@ username:password:user ID (UID):group ID (GIP):personal information:shell user
 3) - For return to home catalog, next command:  
 - **"cd"**</br>
 - **"cd ~"**</br>
-- **"cd /home/username/""**
+- **"cd /home/ledz0/""**
 4) ![1](./screenshots/5.png)
 Option -l give additional insight information about folder content :
 
@@ -42,3 +42,27 @@ Option -l give additional insight information about folder content :
 Option -a shows hidden files in the target folder which start on "."
 5) All steps from instruction: 
 ![1](./screenshots/12.png)
+6)  All steps from instruction: 
+![1](./screenshots/13.png)
+![1](./screenshots/14.png)
+7) Command **locate -A traceroute squid** - shows nothing because there are no files with the name "squid". Only "traceroute"
+![1](./screenshots/15.png)
+8-9) Next screenshot info about system mount partition. 
+![1](./screenshots/16.png)
+10) No results for /etc/ directory. 
+![1](./screenshots/17.png)
+11) Using find and grep commands. 
+![1](./screenshots/18.png)
+12) Command for screen-by-screen print:
+ - ls -al /etc | less
+![1](./screenshots/19.png)
+13) Show Audio, Video and USB devices 
+![1](./screenshots/20.png)
+14) + Types of files :
+  - regular files (-)
+  - sockets (s)
+  - pipes (p)
+  - symbolic devices (c)
+  - block devices (b)
+  - symbolic links (l)
+  - directories (d)
